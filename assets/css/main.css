@@ -3891,7 +3891,14 @@ div.scroll-container img:hover {
 	transform: scale(1.5);
   }
 
-/* Intro */
+  /* Profile */
+.profilebasicdesign{
+	border: 10px solid purple;
+	padding: 5px;
+	border-radius: 50%;
+	margin-bottom: 50px;
+}
+  /* Intro */
 
 	#intro {
 		background-attachment: fixed;
